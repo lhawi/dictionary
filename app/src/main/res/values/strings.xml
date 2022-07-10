@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Dictionary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="translate">Terjemahan</string>
+    <string name="kamus_pref">kamus_pref</string>
+    <string name="loading">Loading</string>
+
+    <string name="eng_to_ind">English-Indonesian</string>
+    <string name="ind_to_eng">Indonesian-English</string>
+    <string name="search_keyword">Masukkan Kata</string>
+</resources>
